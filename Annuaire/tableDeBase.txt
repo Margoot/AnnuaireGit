@@ -1,0 +1,10 @@
+:1:;:BILLOT:;:Jérémie:;:0675566776:;:billotjeremie@esme.fr:;:1994-11-07:;:45 faubourg Saint Honoré
+Paris:$:2:;:THOME:;:Simon:;:0674432233:;:thomesimon@esme.fr:;:1994-03-30:;:234 Avenue des Champs Elysee
+Paris:$:3:;:LE ROUZIC:;:Margot:;:0767855334:;:lerouzicmargot@esme.fr:;:1994-12-23:;:3 route de Paris
+Cormeille en Parisy:$:4:;:BILLOU:;:Loic:;:0754433445:;:billouloic@esme.fr:;:1999-09-06:;:Chateau de Pigalle	
+Paris:$:5:;:GILLOT:;:Corentin:;:0687435565:;:gillotcorentin@esme.fr:;:1993-07-06:;:3 place du Rocher
+Toulon:$:6:;:SERRANO:;:Rodia:;:0687457721:;:serranorodia@esme.fr:;:1992-04-13:;:54 rue Etienne Marcel
+Paris:$:7:;:BOND:;:James:;:0700700700:;:bondjames@esme.fr:;:2007-07-07:;:7 Bridge street
+London:$:8:;:LEPONGE:;:Bob:;:0675548723:;:bobleponge@carre.fr:;:2016-03-25:;:Bikini Bottom:$:9:;:VICS:;:Hugo:;:0754123476:;:hugovics@esme.fr:;:1993-06-12:;:45 rue du Marechal Geoff
+Marseille:$:10:;:IVANOV:;:Alban:;:0754776123:;:albanivanov@esme.fr:;:1975-07-08:;:67 rue Saint Denis 
+Paris:$
